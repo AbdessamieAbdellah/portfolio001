@@ -22,9 +22,9 @@ export const ContactUs = () => {
     setFormdata({ loading: true });
 
     const templateParams = {
-      from_name: formData.email,
-      user_name: formData.name,
-      to_name: contactConfig.YOUR_EMAIL,
+      email: formData.email,
+      name: formData.name,
+      // to_name: contactConfig.YOUR_EMAIL,
       message: formData.message,
     };
 
@@ -40,10 +40,14 @@ export const ContactUs = () => {
           console.log(result.text);
           setFormdata({
             loading: false,
-            alertmessage: "SUCCESS! ,Thankyou for your messege",
+            alertmessage: "I have received your message. Thank you !",
             variant: "success",
             show: true,
+            email: "",
+            name: "",
+            message: "",
           });
+          // e.target.reset();
         },
         (error) => {
           console.log(error.text);
