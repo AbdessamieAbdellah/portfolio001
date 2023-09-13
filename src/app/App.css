@@ -29,6 +29,11 @@
     transform: translateY(-130%);
     transition: all 400ms ease-out;
 }
+.normal-cursor {
+    cursor: auto;
+  }
+
+
 
 @media (min-width: 1400px) {
     .container,
