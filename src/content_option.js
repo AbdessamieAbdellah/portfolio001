@@ -12,7 +12,7 @@ const introdata = {
         third: "I love coding !" ,
     },
     description: "Creative React Native Developer offering 5+ years of experience providing high-impact web solutions for diverse industry world organizations. Skilled in designing, developing, and testing cross-platform mobile applications incorporating a range of technologies.",
-    your_img_url: "https://images.unsplash.com/photo-1514790193030-c89d266d5a9d",
+    your_img_url: "",
 };
 
 const dataabout = {
@@ -124,72 +124,41 @@ const services = [{
 ];
 
 const dataportfolio = [{
-        img: "https://picsum.photos/400/?grayscale",
-        description: "The0000 wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
+        img: "https://play-lh.googleusercontent.com/N42BcOzzRG3xgYaHebdosIIn-ec9etx03kFy-Up627BMSNdlBaUmvuF8BZ_uouXfbkI=w480-h960-rw",
+        description: "MymyEats is one the mobile app that I created in past two years. It is a Moroccan food delivery app that allows their customers in Morocco to buy the authentic Moroccan food online.",
+        link: "https://play.google.com/store/apps/details?id=com.mymyeats001",
+    },
+    
+    
+    {
+        img: "https://play-lh.googleusercontent.com/6Yo7K_KnK05-SJtr2MCuM52WiHgmHpUMCITlALA88hRl60Pf9e1mr4xdMoL-CL_Awg=w1052-h592-rw",
+        description: "As part of the Starbucks team, I enhanced Partner mobile apps, developing UI components with React.js, Node.js backend, and GraphQL. I also created a tipping automation concept for Mobile Order and Pay, improving customer experience and partner tips. My work involves UI design using components like View, TextInput, and Flexbox layouts",
+        link: "https://play.google.com/store/apps/details?id=com.starbucks.mobilecard",
     },
     {
-        img: "https://picsum.photos/400/800/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
+        img: "https://s.hdnux.com/photos/01/30/60/63/23268573/6/rawImage.jpg",
+        description: "I drive Cross-Platform Mobile Development with React Native and TypeScript. I excel in Software Life Cycle phases, from Requirement Analysis to Implementation, with a keen eye for precise project timeline estimates.",
+        link: "https://play.google.com/store/apps/details?id=com.united.mobile.android&hl=en_US&gl=US",
     },
     {
-        img: "https://picsum.photos/400/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
+        img: "https://www.orovalleyaz.gov/files/assets/public/v/1/images-depts/ced/economic-development/walgreens.png?w=1200",
+        description: "At Walgreens, I used React Native and Firebase to enhance the app, managed source code with GitHub, and enhanced performance by migrating to a flattened database structure.",
+        link: "https://play.google.com/store/apps/details?id=com.usablenet.mobile.walgreen",
     },
     {
-        img: "https://picsum.photos/400/600/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
-    },
-    {
-        img: "https://picsum.photos/400/300/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
-    },
-    {
-        img: "https://picsum.photos/400/700/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
+        img: "https://play-lh.googleusercontent.com/FRPynv37a4Va6YfGumqGLrWZmMgMjzMJgkiT4Wx_7rHfGYAJIqGTii0DKFtFdwym3hs=w480-h960-rw",
+        description: "At Rentique  Collaborated closely with retail staff to gather requirements and translate them into efficient solutions. Utilized React and TypeScript to build internal tools for retail associates, optimized for iPad. Developed custom Push Notifications and RESTful APIs",
+        link: "https://play.google.com/store/apps/details?id=com.rentique.android",
     },
 
-    {
-        img: "https://picsum.photos/400/600/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
-    },
-    {
-        img: "https://picsum.photos/400/300/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
-    },
-    {
-        img: "https://picsum.photos/400/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
-    },
-    {
-        img: "https://picsum.photos/400/550/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
-    },
-    {
-        img: "https://picsum.photos/400/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
-    },
-    {
-        img: "https://picsum.photos/400/700/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
-    },
+
+   
 ];
 
 const contactConfig = {
     YOUR_EMAIL: "abdessamie.abdellah@gmail.com",
     YOUR_FONE: "(619)613-9677",
-    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi vehicula eu nunc et sollicitudin. Cras pulvinar, nisi at imperdiet pharetra. ",
+    description: " Feel free to reach out! When contacting me through my portfolio, please send concise and clear messages, making it easier for us to connect and discuss opportunities or inquiries.",
     // creat an emailjs.com account 
     // check out this tutorial https://www.emailjs.com/docs/examples/reactjs/
     YOUR_SERVICE_ID: "service_krbo05b",
