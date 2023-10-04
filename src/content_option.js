@@ -125,7 +125,7 @@ const services = [{
 
 const dataportfolio = [{
         img: "https://play-lh.googleusercontent.com/N42BcOzzRG3xgYaHebdosIIn-ec9etx03kFy-Up627BMSNdlBaUmvuF8BZ_uouXfbkI=w480-h960-rw",
-        description: "MymyEats is one the mobile app that I created in past two years. It is a Moroccan food delivery app that allows their customers in Morocco to buy the authentic Moroccan food online.",
+        description: "MymyEats is one of mobile apps that I created in the past two years. It is a Moroccan food delivery app that allows their customers located in Morocco to order and buy authentic Moroccan food online.",
         link: "https://play.google.com/store/apps/details?id=com.mymyeats001",
     },
     
