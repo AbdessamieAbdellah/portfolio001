@@ -11,7 +11,7 @@ const introdata = {
         second: "I build gorgeous UI/UX ",
         third: "I love coding !" ,
     },
-    description: "Creative React Native Developer offering 5+ years of experience providing high-impact web solutions for diverse industry world organizations. Skilled in designing, developing, and testing cross-platform mobile applications incorporating a range of technologies.",
+    description: "Creative React Native Developer offering 7+ years of experience providing high-impact web solutions for diverse industry world organizations. Skilled in designing, developing, and testing cross-platform mobile applications incorporating a range of technologies.",
     your_img_url: "",
 };
 
